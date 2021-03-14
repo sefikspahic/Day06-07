@@ -13,10 +13,9 @@
 
 .column {
   flex: 33.33%;
-  margin-left:  25px;
+  margin-left: 25px;
   margin-right: 25px;
   margin-top: 25px;
-  
 }
 
 .photo {
@@ -25,14 +24,8 @@
 }
 
 .text {
-    margin-right: 10px;
-    margin-left: 10px;
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-.size {
-  height: 100px;
-  width: 500px;
-  
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: justify;
+  text-justify: inter-word;
 }
