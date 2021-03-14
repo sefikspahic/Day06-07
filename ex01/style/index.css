@@ -29,3 +29,7 @@
   text-align: justify;
   text-justify: inter-word;
 }
+.line {
+
+  line-height: 0.9;
+}
